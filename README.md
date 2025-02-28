@@ -9,13 +9,17 @@ Wipro product and services are Application, Artificial Intelligence, Business Pr
 
 **Product and Service**
 
-  **Sustainability** : Create economic value that is ecologically sustainable, socially responsible, and based on bedrock of good governance.
+   **Sustainability** : Create economic value that is ecologically sustainable, socially responsible, and based on bedrock of good governance.
 
-  **Digital Experience** : Develop and manage personalized user experience across all channels, devices, and touchpoints throughout the user journey.
+   **Digital Experience** : Develop and manage personalized user experience across all channels, devices, and touchpoints throughout the user journey.
 
-  **Data & Analytics** : Provide customized industry-Specific analytics solutions, which facilitate insights-driven decision-making.
+   **Data & Analytics** : Provide customized industry-Specific analytics solutions, which facilitate insights-driven decision-making.
 
 
 **Responsive Design Testing by Wipro**
 
 It's refers to Wipro's approach or services for testing how well a website or application adapts to different screen sizes, devices, and resolutions. This testing ensures that a website looks and works properly on desktops, tablets, and mobile phones.
+
+**Website**
+
+https://wipro25.wordpress.com/
